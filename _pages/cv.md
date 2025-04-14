@@ -11,26 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Chongqing, Chongqing University, 2021
 
-Work experience
+Intership experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2023: Research Assistant
+  * Chongqing University, School of Computer science laboratory
+  * Duties includes: Assist the team to complete machine learning-related project reprodcution and paper writing
+  * Supervisor: Prof. Yin Yunfei
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023 and Spring 2024: Embedded assistant engineer
+  * Shenyang Institute of Automation, Chinese Academy of Sciences
+  * Duties included: Assisted the team to complete the design and production of the oil monitoring unmanned vehicle, participated in the debugging, and successfully delivered the vehicle
+                     Participate in the commissioning of motor, robot arm, development board and other projects; Help tutor to make slides, meeting reports, product research, etc
+                     Learn related content of electromagnetic heating ice melting, design polar ice melting project and complete proposal report and presentation
+  * Supervisor: Prof. Gong Haili
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024: Teaching Assistant
+  * Chongqing University, JCI
+  * Probability and Engineering statistics， Engineering Foundation
+  * Duties included: Assist the course teacher with homework and exam grading
+                     Guide students difficult problems, reduce the burden of teachers
+  * Supervisor: Prof. Alex Wouden & Prof. David Evenhouse
   
 Skills
 ======
