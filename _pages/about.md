@@ -21,5 +21,5 @@ Skills
 
 Contact me
 ======
-Feel free to contact me via [1339836143@qq.com](mailto:1339836143@qq.com).
+Feel free to contact me via [li3z9@mail.uc.edu](mailto:li3z9@mail.uc.edu).
 
