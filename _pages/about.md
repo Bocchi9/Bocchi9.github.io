@@ -24,3 +24,6 @@ Contact me
 ======
 Feel free to contact me via [li3z9@mail.uc.edu](mailto:li3z9@mail.uc.edu).
 
+Resume
+======
+You can find my resume here: [Ziang Li's Resume](../assets/ZiangLi's_Resume).
