@@ -33,7 +33,24 @@ Intership experience
   * Duties included: Assist the course teacher with homework and exam grading<br>
                      Guide students difficult problems, reduce the burden of teachers
   * Supervisor: Prof. Alex Wouden & Prof. David Evenhouse
+
+Program experience
+======
+* Fall 2021-Summer 2023: Chongqing University 2021 Fall SRTP Small motherless ship project 
+  *Group Leader
+  *Participated in the team to design and complete the small motherless ship model, and helped solve the problems in model construction
+  *Mainly responsible for the thesis proposal and defense, reasonably assigned tasks to team members, and led the team to participate in the design and model building, which successfully completed the project
   
+* Spring 2022: The 24th China Robot and Artificial Intelligence Contest Unmanned Vehicle Intelligent Cruise Challenge (Autonomous Cruise)
+  *Group Member
+  *Excellent Prize
+    
+* Summer 2022: The Eighth China International "Internet +"  Competition Wireless charging box project
+  *Group Leader
+  *Participation Award
+  
+* Fall 2021-To now: Commissary in charge of class psychology
+
 Hobbies
 ======
 * Reading
