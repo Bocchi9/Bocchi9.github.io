@@ -8,7 +8,8 @@ redirect_from:
 ---
 Bio
 ======
-Ziang Li is currently an undergraduate student at the JCI, Chongqing University, majoring in Electrical Engineering.
+Ziang Li is currently an undergraduate student at the JCI, Chongqing University, majoring in Electrical Engineering.<br>
+He will be a research assitant in School of Computer science laboratory, Chongqing University in Summer 2025, supervised by Prof. Dongsheng Zou.<br>
 He will be continuing his master degree studying after 2026.6 graduating from Chongqing University.
 
 Skills
