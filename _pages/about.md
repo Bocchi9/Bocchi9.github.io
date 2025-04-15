@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Bio
-======
+---
 Ziang Li is currently an undergraduate student at the JCI, Chongqing University, majoring in Electrical Engineering.
 Contact me
 ======
