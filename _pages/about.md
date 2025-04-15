@@ -13,11 +13,11 @@ He will be continuing his master degree studying after 2026.6 graduating from Ch
 
 Skills
 ======
-*C/C++
-*UGNX
-*Python
-*Matlab
-*MPLAB X
+* C/C++
+* UGNX
+* Python
+* Matlab
+* MPLAB X
 
 Contact me
 ======
